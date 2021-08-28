@@ -54,3 +54,17 @@ info_text span {
 .glyphicon glyphicon-star {
     color: yellow;
 }
+.environment_li{
+    margin-top: 13px;
+}
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.img123{
+    height: 150px;
+    width: 150px;
+}
+.img12{
+    font-size: 40px;
+}
